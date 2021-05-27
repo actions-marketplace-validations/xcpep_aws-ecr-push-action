@@ -1,5 +1,5 @@
-name: AWS ECR
-author: Lee Sun-Hyoup <kciter@naver.com>
+name: AWS ECR Push
+author: Lee Sun-Hyoup <kciter@naver.com>, Daniel Patterson <d@xcpep.io>
 branding:
   icon: upload-cloud
   color: orange
